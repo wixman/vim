@@ -1,4 +1,3 @@
 # vim
-My vim preferences for use both at home and work.
 
-Will include .vimrc and subdirectories.
+Only turned on line numbering and altered tab spacing.
